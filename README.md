@@ -8,7 +8,7 @@ pandas, numpy, scikit-learn, matplotlib, altair, notebook
 
 Pokedex: [Pokemon Showdown GitHub](https://github.com/smogon/pokemon-showdown/blob/master/data/pokedex.ts) converted to JSON
 
-Smogon OU Usage: [Smogon 2026 1500+ Singles converted to CSV](https://www.smogon.com/stats/)
+Smogon OU Usage: [Smogon 2026 1500+ Singles](https://www.smogon.com/stats/) converted to CSV
 
 Run all cells and start building!
 
