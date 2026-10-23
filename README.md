@@ -20,6 +20,9 @@ print(completed_team)
 
 Or use the interactive drop-down to build it yourself!
 
+The interactive dashboard is also available [here](https://nathaniel-designs.github.io/pokemon-ou-builder/)
+
+
 ![Example Dashboard of September's Viable Pokémon](example_september.png)
 
 You can select any of the Pokemon from OU as long as they're used by >1% of the players!
